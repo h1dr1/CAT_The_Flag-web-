@@ -2,3 +2,12 @@
 
 Welcome to the official repository for the web challenges created for the **CAT the Flag** competition! This repository is organized to help both challenge creators and participants easily navigate,
 understand, and contribute to the CTF ecosystem.
+
+There is a challenge description in every repo
+a dockerfile for the deployment and testing of the challenges.
+
+
+### Note : all the challenges are very easy and begineer friendly and each one have an educational objective to 
+introduce a concept , a vulnearbility or a misconfiguration .
+
+HAPPY HACKING MORE TO COME ! 
